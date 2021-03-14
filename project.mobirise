@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "miserere2021",
+    "name": "przenikania",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -52,7 +52,7 @@
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://miserere2021.github.oi",
+    "siteUrl": "https://przenikania.github.io",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -71,7 +71,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "miserere2021.oi",
+        "title": "przenikania",
         "meta_descr": "Twórczość i Portfolio Małgorzaty Ożóg. Praca ponad wszystko, daje efekty. Uniwersytet Rzeszowski. Rysunek węglem, malarstwo, fotografia.",
         "header_custom": "",
         "footer_custom": "",
